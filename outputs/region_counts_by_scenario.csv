@@ -1,0 +1,4 @@
+"scenario","regions","net_beneficial","net_cost","pct_beneficial","certain_positive","certain_negative","uncertain"
+"Optimistic",202,143,59,70.8,143,59,0
+"Realistic",202,128,74,63.4,67,62,73
+"Pessimistic",202,102,100,50.5,0,85,117

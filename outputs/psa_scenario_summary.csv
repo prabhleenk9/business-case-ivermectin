@@ -1,0 +1,4 @@
+"scenario","draws","net_cost_median","net_cost_lo","net_cost_hi","net_dalys_median","net_dalys_lo","net_dalys_hi","nmb_median","nmb_lo","nmb_hi","p_cost_effective","p_cost_saving","p_dominant"
+"Optimistic",5000,-309.3,-383.2,-236.3,2003.3,1531.1,2482.6,1311,1001.9,1624.5,100,100,100
+"Realistic",5000,-155.9,-346.9,38.3,1271,63.5,2440.5,786.8,5.3,1553.1,97.7,89.7,89.7
+"Pessimistic",5000,18.7,-88.8,128.6,629.8,27.5,1217.6,298.9,-101.3,683.9,85.7,40.5,40.5

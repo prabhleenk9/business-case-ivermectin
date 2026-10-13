@@ -1,0 +1,4 @@
+"coverage_band","n","beneficial","pct_beneficial"
+"Low (<=30%)",75,9,12
+"Mid (30-60%)",58,51,88
+"High (>=60%)",69,68,99

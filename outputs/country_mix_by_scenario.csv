@@ -1,0 +1,4 @@
+"scenario","countries","all_beneficial","mixed","none_beneficial"
+"Optimistic",23,5,15,3
+"Realistic",23,2,17,4
+"Pessimistic",23,0,17,6

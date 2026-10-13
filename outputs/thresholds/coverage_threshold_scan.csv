@@ -1,0 +1,7 @@
+"threshold_pct","n_at_or_above","pct_beneficial_above","n_below","pct_beneficial_below"
+20,143,89.5,59,0
+22,139,92.1,63,0
+30,127,93.7,75,12
+35,114,96.5,88,20.5
+40,104,96.2,98,28.6
+50,88,98.9,114,36

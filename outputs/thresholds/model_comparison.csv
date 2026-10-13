@@ -1,0 +1,4 @@
+"model","AUC","Sensitivity","Specificity"
+"LDA",0.974,0.888,0.93
+"QDA",0.984,1,0.51
+"RandomForest",0.995,0.983,0.912
